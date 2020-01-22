@@ -1,3 +1,9 @@
 # Hello-There
 Practice using Github
-system.out.print("Hello there");
+
+public static void main(String [ ] args)
+{
+  system.out.print("Hello there");
+
+}
+
